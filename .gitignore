@@ -1,0 +1,57 @@
+# =============== #
+# Unity generated #
+# =============== #
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+AssetStore-5.x/
+
+# =============== #
+# OS / IDE files  #
+# =============== #
+
+# Windows
+[Dd]esktop.ini
+[Tt]humbs.db
+ehthumbs.db
+*.stackdump
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+.nfs*
+
+# Visual Studio / JetBrains / Rider
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# =============== #
+# Unity packages  #
+# =============== #
+*.unitypackage
+
+# =============== #
+# Crash reports    #
+# =============== #
+sysinfo.txt

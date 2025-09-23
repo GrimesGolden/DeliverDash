@@ -17,11 +17,7 @@ public class Delivery : MonoBehaviour
     {
         spriteRenderer = GetComponent<SpriteRenderer>(); 
     }
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        //Debug.Log(gameObject.name + " collided with " + collision + " oh the HUMANITY!");
-    }
-
+    
     void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.tag == "Package" && !hasPackage)
